@@ -67,9 +67,9 @@ def get_code():
 # 发送邮件的函数
 def send_mail(email, code):
     # 发件人邮箱账号
-    my_sender = '1559492576@qq.com'
+    my_sender = '******@qq.com'
     # 发件人邮箱密码
-    my_pass = "fetvpbfssteiibdj"
+    my_pass = "***************"
     # 收件人邮箱账号
     my_user = email
     content = '''
